@@ -1,0 +1,9 @@
+{
+  "common": {
+    "welcome": "Hoşgeldiniz",
+    "change_language": "Dil Değiştir"
+  },
+  "home": {
+    "name": "Ana Sayfa"
+  }
+}

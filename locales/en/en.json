@@ -1,0 +1,9 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "change_language": "Change Language"
+  },
+  "home": {
+    "name": "Home"
+  }
+}
