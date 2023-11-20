@@ -1,5 +1,5 @@
 {
-  "name": "react-native-i18n",
+  "name": "awesomeproject",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -12,10 +12,6 @@
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "i18next": "^23.7.6",
-    "i18next-browser-languagedetector": "^7.2.0",
-    "i18next-chained-backend": "^4.6.2",
-    "i18next-http-backend": "^2.4.1",
-    "i18next-resources-to-backend": "^1.2.0",
     "react": "18.2.0",
     "react-i18next": "^13.5.0",
     "react-native": "0.72.6"
